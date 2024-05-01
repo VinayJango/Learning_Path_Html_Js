@@ -1,5 +1,19 @@
+# Project Screenshots
 
-# Points 
+
+![Screenshot (45)](https://github.com/VinayJango/Learning_Path_Html_Js/assets/84473308/e634a612-6c37-44d2-aedd-30bf606c3d81)
+
+![Screenshot (40)](https://github.com/VinayJango/Learning_Path_Html_Js/assets/84473308/7713d682-371d-4808-9187-3af5b60ed125)
+
+![Screenshot (44)](https://github.com/VinayJango/Learning_Path_Html_Js/assets/84473308/c2309b13-5f6e-499e-b4b2-b8041fad3e91)
+
+![Screenshot (46)](https://github.com/VinayJango/Learning_Path_Html_Js/assets/84473308/28a9ccb5-4063-43d6-a855-ebed74d520d5)
+
+ ![Screenshot (41)](https://github.com/VinayJango/Learning_Path_Html_Js/assets/84473308/55c0be6c-9eff-42b4-886c-f39b505df87a)
+
+ ![Screenshot (43)](https://github.com/VinayJango/Learning_Path_Html_Js/assets/84473308/7bde441f-c3d8-444d-ad00-3a7090af80b3)
+
+# Points
 
 # What is HTML ?
 HTML Stands for Hypertext Markup Language
